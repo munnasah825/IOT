@@ -126,6 +126,7 @@
 
             }
             else{
+               Materialize.toast('User not Identfied');
                 abc1();
                 }
         });
